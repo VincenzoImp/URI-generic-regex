@@ -62,9 +62,9 @@ URI_GENERIC_REGEX = r'''
             [a-zA-Z]{2,}                         # TLD must be at least 2 alphabetic characters
         )                                        # End of domain group
         
-        |                                       # OR
+        # |                                       # OR
         
-        (?P<localhost>localhost)                 # Special case for 'localhost'
+        # (?P<localhost>localhost)                 # Special case for 'localhost'
     )                                          # End of host group
 
     # ==== Optional Port ====
