@@ -1,9 +1,5 @@
 # URI Generic Regex
 
-A comprehensive Python implementation of a regular expression for parsing and extracting components from URIs (Uniform Resource Identifiers) according to **RFC 3986** standards.
-
-## Overview
-
 This project provides a robust regex pattern that can parse various URI formats and extract their individual components including scheme, authority (userinfo, host, port), path, query, and fragment parts. The implementation supports IPv4, IPv6, and domain name formats for hosts.
 
 ## Features
