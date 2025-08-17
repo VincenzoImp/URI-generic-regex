@@ -204,10 +204,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](https://www.rfc-editor.org/rfc/rfc3986)
 - [IANA Top Level Domains](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 
-## Author
-
-Vincenzo Imperati
-
 ---
 
 **Note**: This regex is designed for general URI parsing. For production applications, consider using specialized URI parsing libraries that provide more comprehensive validation and error handling.
